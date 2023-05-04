@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 🚀 I've worked on a range of exciting projects, including developing a YouTube clone using React, MongoDB, and Axios for uploading, watching, and sharing videos 📹, creating a full-stack Windows application using Java Swing for ordering food and groceries 🍔, and designing prediction models to detect fake news with up to 98% accuracy 📰.
 
 📫 If you're interested in connecting, feel free to reach out to me at (857) 376-1705 or sridhar.ba@northeastern.edu. You can also check out my GitHub profile to see more of my work!
+
+
+![snake gif](https://github.com/barthis1998/barathis1998/blob/output/github-contribution-grid-snake.gif)
