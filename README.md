@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 📫 If you're interested in connecting, feel free to reach out to me at (857) 376-1705 or sridhar.ba@northeastern.edu. You can also check out my GitHub profile to see more of my work!
 
 
-![snake gif]([https://github.com/barthis1998/barathis1998/blob/output/github-contribution-grid-snake.gif])
+![snake gif](https://github.com/barthis1998/barathis1998/blob/output/github-contribution-grid-snake.gif)
