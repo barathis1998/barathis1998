@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 💻 I have strong skills in JavaScript, Angular, Reactjs, Python, Java, SQL, and database management. I'm proficient in a range of tools and technologies, including Git, Bash, Linux, NumPy, Pandas, Sci-Kit Learn, Matplotlib, and more.
 
-💼 In my previous role as a Systems Engineer (Data Engineer) at Infosys Private Limited in Chennai, India, I worked with a client to construct and monitor data pipelines with multiple stages and complex transformations, devising reports and dashboards using industry tools like SSRS and PowerBI. I also automated the SSIS package monitoring system and resolved client issues with 0% SLA breach.
+💼 In my previous role as a Systems Engineer (Data Engineer) at Infosys Private Limited in Chennai, India, I worked with clients to construct and monitor data pipelines with multiple stages and complex transformations, devising reports and dashboards using industry tools like SSRS and PowerBI. I also automated the SSIS package monitoring system and resolved client issues with 0% SLA breach.
 
 🚀 I've worked on a range of exciting projects, including developing a YouTube clone using React, MongoDB, and Axios for uploading, watching, and sharing videos 📹, creating a full-stack Windows application using Java Swing for ordering food and groceries 🍔, and designing prediction models to detect fake news with up to 98% accuracy 📰.
 
